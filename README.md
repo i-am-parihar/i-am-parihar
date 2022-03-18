@@ -1,7 +1,8 @@
-### Hi there 👋
+Hi 👋, I'm Paritosh Parihar
+ 
+   A MERN Stack developer 
 
-<!--
-**i-am-parihar/i-am-parihar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an Observant and innovative aspiring full-stack developer with a good understanding of JavaScript.
 
 Here are some ideas to get you started:
 
