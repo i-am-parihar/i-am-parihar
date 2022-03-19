@@ -1,6 +1,6 @@
                                  Hi 👋, I'm Paritosh Parihar
  
-                                    A MERN Stack developer 
+                                    # A MERN Stack developer 
 
 I am an Observant and innovative aspiring full-stack developer with a good understanding of JavaScript.Apart from coding, I am a good team player with leadership skills. Looking forward to some interesting and challenging opportunities.
 
