@@ -39,11 +39,12 @@ Here are some ideas to get you started:
 <br>
 
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=i-am-parihar&show_icons=true&locale=en" alt="Paritosh" /></p>
-<br>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=i-am-parihar&show_icons=true&locale=en" alt="Paritosh"/></p>
+<br><p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=i-am-parihar&show_icons=true&locale=en&layout=compact" alt="Paritosh"  width="500" /></p></p>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=i-am-parihar&" alt="Paritosh" /></p>
-<p align="center">
+
+<p align="right">
+
   <img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg">
   </p>
 <br>
